@@ -6,3 +6,12 @@ header {
   font-family: Sans-Serif;
   color: #fff;
 }
+
+.main {
+  background: rgb(144, 238, 149);
+  padding: 50px 100px;
+  font-size: 38px;
+  font-family: sans-serif;
+  text-align: center;
+  color: #fff;
+}
